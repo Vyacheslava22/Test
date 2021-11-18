@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf>
+ <head>
+   <name>Viacheslav</name>
+ </head>
+ <body>
+   <age>
+     <hl1>24</hl1>
+   </age>
+   <position>
+     <bytag>QA</bytag>
+   </position>
+   <aplace>
+     <town>Odessa</town>
+     <street>>Kanatna,22</street>
+   </aplace>
+ </body>
+</nitf>

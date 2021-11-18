@@ -1,0 +1,19 @@
+{
+    "nitf": {
+        "head": {
+            "name": "Viacheslav"
+        },
+        "body": {
+            "age": {
+                "hl1": "24"
+            },
+            "position": {
+                "bytag": "QA"
+            },
+            "aplace": {
+                "town": "Odessa",
+                "street": ">Kanatna,22"
+            }
+        }
+    }
+}

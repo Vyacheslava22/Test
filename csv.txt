@@ -1,0 +1,6 @@
+Viaceslav; 24; Senior; QA; Odessa; Kanatnaja 					
+Dmitriy; 31; Dev; Odessa; Zabolotnogo
+Igor; 28; PM; Kiev; Shevchenko
+Denis; 27; Midl QA; Kharkov; Topoleva
+Anastasija; 22; Junior; Dev; Nikolaiv; Zhukova
+	
